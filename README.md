@@ -1,2 +1,2 @@
-# WorkPxPython
-Place Where I keep Practice Work with Git in Python
+# Python Class
+Giving comparison and basics of Python compared to R. 
